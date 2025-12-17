@@ -1,7 +1,7 @@
 # devops-learning
 This is to learn devops from the scratch
 
-****The Roadmap to learn Devops in 2026****
+***The Roadmap to learn Devops in 2026***
 - **Step #1: Devops Fundamentals**
   - Fundamentals of Linux
   - Fundamentals of Networking
